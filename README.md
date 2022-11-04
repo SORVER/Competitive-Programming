@@ -1,2 +1,2 @@
 # Competitive Programming
-   1-  Dynamic Progarming
+  ## 1-  Dynamic Progarming
