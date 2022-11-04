@@ -1,3 +1,3 @@
 # Competitive Programming
-  ## 1- [!Dynamic Progarming] (https://github.com/user/repo/blob/branch/other_file.md)
+  ## 1-  (https://github.com/user/repo/blob/branch/other_file.md)[!Dynamic Progarming]
 
