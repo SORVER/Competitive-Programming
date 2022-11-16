@@ -1,7 +1,7 @@
 # Dynamic-Programming
 ## 0/1 Knapsack
 
-> it's an example, a theif entered the house , he decided to take the most valuable things becuase he has a limited storage in his bag so you have two arrays one for the weoght and other for the value also the bag capacity.
+> it's an example, a theif entered the house , he decided to take the most valuable things becuase he has a limited storage in his bag so you have two arrays one for the weight and other for the value also the bag capacity.
  
 ![Screenshot_3](https://user-images.githubusercontent.com/60802724/200031172-2a596480-3d14-4950-b87d-b38f85b2f6ae.png)
 
